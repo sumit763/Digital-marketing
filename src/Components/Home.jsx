@@ -18,6 +18,7 @@ const Home = () => {
         <nav className="space-x-7 text-black">
           <a
             href="#home"
+            id="home"
             className="px-3 py-3 hover:font-semibold hover:border hover:rounded-3xl"
           >
             Home
@@ -25,23 +26,27 @@ const Home = () => {
           <a
             href="#services"
             className="px-3 py-3 hover:font-semibold hover:border hover:rounded-3xl"
+            id="services"
           >
             Services
           </a>
           <a
             href="#features"
+            id="features"
             className="px-3 py-3 hover:font-semibold hover:border hover:rounded-3xl"
           >
             Features
           </a>
           <a
             href="#about"
+            id="about"
             className="px-3 py-3 hover:font-semibold hover:border hover:rounded-3xl"
           >
             About Us
           </a>
           <a
             href="#contact"
+            id="contact"
             className="px-3 py-3 hover:font-semibold hover:border hover:rounded-3xl"
           >
             Contact Us

@@ -5,7 +5,7 @@ import icon from "../assets/icon.svg";
 import btnicon from "../assets/btnlogo.svg";
 const Features = () => {
   return (
-    <div className="max-w-full h-[1370px]  flex justify-center items-center ">
+    <div className="  max-w-full h-[1370px]  flex justify-center items-center ">
       <div className="w-[1280px] h-[1209px] bg-[#DBDCDD]  flex ">
         {/** Background  Image Two */}
         <div

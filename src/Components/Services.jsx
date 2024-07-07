@@ -4,11 +4,11 @@ import img1 from "../assets/Rectangle 15img1.svg";
 
 const Services = () => {
   return (
-    <div className="w-[1440px] h-[2797px]  flex flex-col  mt-0 ">
+    <div className=" w-[1440px] h-[2797px]  flex flex-col  mt-0 ">
       {/* M upper container */}
       <div className="flex justify-between   w-[1200px] h-[140px] mx-[120px] mt-[120px] mb-[80px] ">
         <div className=" mr-[20rem]">
-          <h1 className="text-[48px] font-sora">
+          <h1 className="text-[48px] font-sora leading-[1]">
             We Just Offer The Best Services
           </h1>
         </div>
